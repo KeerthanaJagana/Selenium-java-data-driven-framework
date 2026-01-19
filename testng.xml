@@ -1,0 +1,11 @@
+<suite name="SeleniumSuite">
+  <test name="Scenario3TestRun">
+    <classes>
+      <class name="scenario.Scenario1Test"/>
+      <class name="scenario.Scenario2Test"/>
+      <class name="scenario.Scenario3Test"/>
+      <class name="scenario.Scenario4Test"/>
+      <class name="scenario.Scenario5Test"/>
+    </classes>
+  </test>
+</suite>
